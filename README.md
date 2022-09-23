@@ -1,2 +1,2 @@
-# my_arithmetic_-exercise
+# my_arithmetic_exercise
 leecode算法刷题
